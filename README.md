@@ -1,2 +1,3 @@
-# LearnQTFWithPython
-Learn Quantum Field Theory With Python
+# QTFNeuralNetworks
+Learn Neural Networks with Quantum Field Theory.
+Use Python
